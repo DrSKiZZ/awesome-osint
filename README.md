@@ -740,7 +740,6 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) Language Tools
 
-* see the [Awesome Translations list](https://github.com/mbiesiad/awesome-translations#tools)
 
 ## [↑](#-table-of-contents) Image Search
 
@@ -1419,5 +1418,10 @@ algorithms, knowledgebase and AI technology.
 ## License
 
 ![cc license](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+.png)
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 40 International](htt://creativecommos.or/licenses/by-sa/4.0/ license.
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.
